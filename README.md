@@ -10,7 +10,7 @@
 #####
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=sammykinuthia&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)]&theme=dracula" height="150" alt="stats graph"  />
+<img src="(https://streak-stats.demolab.com/?user=sammykinuthia&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)]&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammykinuthia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
