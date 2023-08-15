@@ -4,28 +4,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sammykinuthia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammykinuthia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sammykinuthia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammykinuthia&size_weight=0.5&count_weight=0.5&theme=dark)
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sammykinuthia&show_icons=true&theme=dark"
-    
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sammykinuthia&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sammykinuthia&show_icons=true" />
-</picture>
-</div>
 
 ###
 
