@@ -63,28 +63,4 @@
   </a>
 </div>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<p align="left">🔭 I’m currently working on an ecommerce system using nextjs</p>
- <p align="left">  📚 I'm currently learning web testing at TheJitu in Nyeri, Kenya</p>
-  <p align="left">⚡ In my free time I enjoy exploring new technologies and learning them.</p>
-   <a align="left" href="https://sammykinuthia.github.io/my-portifolio/">
-    Link to my portifolio....
-  </a>
-</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
