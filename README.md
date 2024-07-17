@@ -32,7 +32,7 @@
 ###
 <h3 align="left"> ✨ Socials</h3>
 <div align="left">
-  <a href="samuelmwaniki17@gmail.com" target="_blank">
+  <a href="mailto:samuelmwaniki17@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/samuel-kinuthia99/" target="_blank">
