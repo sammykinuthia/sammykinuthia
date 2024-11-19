@@ -1,4 +1,4 @@
-import { Activity, ArrowRightLeft, ArrowUpRight, Folder, Github, Linkedin, Mail, Map, MapPin, Phone } from "lucide-react"
+import { Activity, ArrowUpRight, Folder, Github, Linkedin, Mail, Phone } from "lucide-react"
 import NavBar from "./NavBar"
 
 function App() {
@@ -24,17 +24,17 @@ function App() {
   ]
   const experience = [
     {
-      company:"Pamatech Solution",
+      company: "Pamatech Solution",
       title: "Software Engineer",
       description: "Worked on multiple projects including school management system, Chama management system",
       date: "2024 - PRESENT",
       url: "https://pamatech.co.ke/"
-    },{
+    }, {
       company: "Zetu Academy",
       title: "Software Engineer",
       description: "Worked on multiple projects using next.js and wordpress",
       date: "Dec 2023 - Mar 2024",
-      url: "https://zetujobs.com/", 
+      url: "https://zetujobs.com/",
     },
     {
       company: "The Jitu",
@@ -128,10 +128,10 @@ function App() {
               <div className=" my-8">
                 {experience.map(exper => (
                   <a href={exper.url} target="_blank" key={exper.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
-                      <div className="flex-1 h-full flex flex-col justify-center">
-                        <h4>{exper.title}</h4>
-                        <p className="text-gray-400">{exper.description}</p>
-                        <p className="text-gray-400">{exper.date}</p>
+                    <div className="flex-1 h-full flex flex-col justify-center">
+                      <h4>{exper.title}</h4>
+                      <p className="text-gray-400">{exper.description}</p>
+                      <p className="text-gray-400">{exper.date}</p>
                     </div>
                     <div className="">
                       <ArrowUpRight className="group-hover:size-8 group-hover:-mt-4 group-hover:-mr-4 animation duration-300 group-hover:text-primary" />
@@ -147,10 +147,10 @@ function App() {
               <div className=" my-8">
                 {experience.map(exper => (
                   <a href={exper.url} target="_blank" key={exper.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
-                      <div className="flex-1 h-full flex flex-col justify-center">
-                        <h4>{exper.title}</h4>
-                        <p className="text-gray-400">{exper.description}</p>
-                        <p className="text-gray-400">{exper.date}</p>
+                    <div className="flex-1 h-full flex flex-col justify-center">
+                      <h4>{exper.title}</h4>
+                      <p className="text-gray-400">{exper.description}</p>
+                      <p className="text-gray-400">{exper.date}</p>
                     </div>
                     <div className="">
                       <ArrowUpRight className="group-hover:size-8 group-hover:-mt-4 group-hover:-mr-4 animation duration-300 group-hover:text-primary" />
