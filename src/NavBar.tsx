@@ -2,7 +2,7 @@ import { FolderClosed, HomeIcon, Wine, WorkflowIcon, Wrench } from 'lucide-react
 
 const NavBar = () => {
     return (
-        <nav className='sticky top-0 p-12 w-full flex justify-center items-center gap-4'>
+        <nav className='sticky top-0 p-4 w-full flex justify-center items-center gap-4 bg-secondary-content/70 z-10'>
             <div className="tooltip" data-tip="Home">
                 <a href='#home' className="btn"><HomeIcon /></a>
             </div>

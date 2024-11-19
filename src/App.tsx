@@ -51,7 +51,7 @@ function App() {
         <NavBar />
         {/* Body */}
 
-        <div className="flex flex-col md:flex-row max-w-6xl mx-auto gap-8 gap-x-20 items-start">
+        <div className="flex flex-col md:flex-row max-w-6xl p-4 mx-auto gap-8 gap-x-20 items-start">
           {/* profile */}
           <div className="rounded-lg bg-secondary-content text-gray-400 p-12 relative md:sticky md:top-28 top-0 w-full md:max-w-72 flex flex-col items-center gap-4">
             <div className="avatar border-4 rounded-lg overflow-hidden">
@@ -75,12 +75,12 @@ function App() {
           {/* body */}
           <div className="flex-1">
             <div id="home" className="">
-              <h2 className="text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
+              <h2 className="text-3xl md:text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
               <p className="max-w-lg text-lg mt-8 text-gray-400">Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.</p>
               {/* stats */}
               <div className="mt-8 ">
-                <div className="stats shadow">
-                  <div className="stat">
+                <div className="grid grid-cols-1 md:grid-cols-2 ">
+                  <div className="stat shadow">
                     <div className="stat-figure text-primary">
                       <Activity className="text-primary" />
                     </div>
@@ -88,7 +88,7 @@ function App() {
                     <div className="stat-desc">YEARS OF EXPERIENCE</div>
                   </div>
 
-                  <div className="stat">
+                  <div className="stat shadow">
                     <div className="stat-figure text-primary">
                       <Folder />
                     </div>
@@ -101,7 +101,7 @@ function App() {
             </div>
             {/* projects */}
             <div id="projects" className="mt-8 md:mt-12">
-              <h2 className="text-8xl uppercase font-bold" >Recent <span className="text-gray-600">Projects</span></h2>
+              <h2 className="text-3xl md:text-8xl uppercase font-bold" >Recent <span className="text-gray-600">Projects</span></h2>
               <div className=" my-8">
                 {projects.map(project => (
                   <a href={project.url} target="_blank" key={project.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
@@ -124,7 +124,7 @@ function App() {
             </div>
             {/* Experience */}
             <div id="experience" className="mt-8 md:mt-12">
-              <h2 className="text-8xl uppercase font-bold" >Years Of <span className="text-gray-600">Experience</span></h2>
+              <h2 className="text-3xl md:text-8xl uppercase font-bold" >Years Of <span className="text-gray-600">Experience</span></h2>
               <div className=" my-8">
                 {experience.map(exper => (
                   <a href={exper.url} target="_blank" key={exper.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
@@ -140,26 +140,7 @@ function App() {
                 ))}
 
               </div>
-            </div>
-            {/* Skills */}
-            <div id="skills" className="mt-8 md:mt-12">
-              <h2 className="text-8xl uppercase font-bold" >Years Of <span className="text-gray-600">Experience</span></h2>
-              <div className=" my-8">
-                {experience.map(exper => (
-                  <a href={exper.url} target="_blank" key={exper.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
-                    <div className="flex-1 h-full flex flex-col justify-center">
-                      <h4>{exper.title}</h4>
-                      <p className="text-gray-400">{exper.description}</p>
-                      <p className="text-gray-400">{exper.date}</p>
-                    </div>
-                    <div className="">
-                      <ArrowUpRight className="group-hover:size-8 group-hover:-mt-4 group-hover:-mr-4 animation duration-300 group-hover:text-primary" />
-                    </div>
-                  </a>
-                ))}
-
-              </div>
-            </div>
+            </div>          
           </div>
         </div>
       </div>
