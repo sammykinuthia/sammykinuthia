@@ -129,7 +129,7 @@ function App() {
                 {experience.map(exper => (
                   <a href={exper.url} target="_blank" key={exper.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
                     <div className="flex-1 h-full flex flex-col justify-center">
-                      <h4>{exper.title}</h4>
+                      <h4 className="font-semibold">{exper.company}</h4>
                       <p className="text-gray-400">{exper.description}</p>
                       <p className="text-gray-400">{exper.date}</p>
                     </div>
