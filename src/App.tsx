@@ -39,7 +39,7 @@ function App() {
     {
       company: "The Jitu",
       title: "Quality Assurance",
-      description: "Performed different tests including performance and end-to-end tests along collaborating with developers",
+      description: "Performed different tests including performance and end-to-end tests along side collaborating with developers",
       date: "Jun 2023 - Sep 2023",
       url: "https://thejitu.com/"
     }
