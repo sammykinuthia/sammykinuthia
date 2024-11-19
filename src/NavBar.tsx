@@ -1,5 +1,4 @@
-import { FolderClosed, HomeIcon, Settings, Wine, WorkflowIcon, Wrench } from 'lucide-react'
-import React from 'react'
+import { FolderClosed, HomeIcon, Wine, WorkflowIcon, Wrench } from 'lucide-react'
 
 const NavBar = () => {
     return (
