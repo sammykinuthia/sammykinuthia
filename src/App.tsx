@@ -75,7 +75,7 @@ function App() {
           {/* body */}
           <div className="flex-1">
             <div id="home" className="">
-              <h2 className="text-3xl md:text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
+              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
               <p className="max-w-lg text-lg mt-8 text-gray-400">Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.</p>
               {/* stats */}
               <div className="mt-8 ">
@@ -101,7 +101,7 @@ function App() {
             </div>
             {/* projects */}
             <div id="projects" className="mt-8 md:mt-12">
-              <h2 className="text-3xl md:text-8xl uppercase font-bold" >Recent <span className="text-gray-600">Projects</span></h2>
+              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Recent <span className="text-gray-600">Projects</span></h2>
               <div className=" my-8">
                 {projects.map(project => (
                   <a href={project.url} target="_blank" key={project.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
@@ -124,7 +124,7 @@ function App() {
             </div>
             {/* Experience */}
             <div id="experience" className="mt-8 md:mt-12">
-              <h2 className="text-3xl md:text-8xl uppercase font-bold" >Years Of <span className="text-gray-600">Experience</span></h2>
+              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Years Of <span className="text-gray-600">Experience</span></h2>
               <div className=" my-8">
                 {experience.map(exper => (
                   <a href={exper.url} target="_blank" key={exper.url} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
