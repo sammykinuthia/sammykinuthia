@@ -44,6 +44,98 @@ function App() {
       url: "https://thejitu.com/"
     }
   ]
+
+  const skills: { name: string, skills: string[] }[] = [
+    {
+      name: "Web Development",
+      skills: [
+        "React",
+        "Next.js",
+        "Remix",
+        "JavaScript",
+        "TypeScript",
+        "HTML/CSS",
+        "Tailwind CSS",
+        "Bootstrap",
+        "WordPress"
+      ]
+    },
+    {
+      name: "Mobile Development",
+      skills: [
+        "React Native"
+      ]
+    },
+    {
+      name: "Backend Development",
+      skills: [
+        "FastAPI",
+        "PocketBase",
+        "Node.js",
+        "Django",
+      ]
+    },
+    {
+      name: "Databases & Storage",
+      skills: [
+        "PostgreSQL",
+        "Firebase",
+        "Mysql",
+        "Mongo db",
+      ]
+    },
+    {
+      name: "Data Science",
+      skills: [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Jupyter Notebooks",
+        "Machine Learning (Scikit-learn)"
+      ]
+    },
+    {
+      name: "Web Scraping",
+      skills: [
+        "Puppeteer",
+        "Beautiful Soup",
+      ]
+    },
+    {
+      name: "Quality Assurance",
+      skills: [
+        "Test Automation",
+        "Jest",
+        "Vitest",
+        "Cypress",
+        "Debugging",
+      ]
+    },
+    {
+      name: "Tools & Platforms",
+      skills: [
+        "Expo",
+        "Cloudflare",
+        "Docker",
+        "Git",
+        "Vercel",
+        "Netlify",
+        "VPS"
+      ]
+    },
+    {
+      name: "Programming Languages",
+      skills: [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java"
+      ]
+    }
+  ];
+
   return (
 
     <>
@@ -140,7 +232,27 @@ function App() {
                 ))}
 
               </div>
-            </div>          
+            </div>
+            {/* skills */}
+            <div id="skills" className="mt-8 md:mt-12">
+              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Skills <span className="text-gray-600">and Tools</span></h2>
+              <div className="my-8">
+                {skills.map(skill => (
+                  <div key={skill.name} className="p-6 group rounded-lg hover:bg-gray-700 duration-300 animation flex">
+                    <div className="flex-1 h-full flex flex-col justify-center">
+                      <h4 className="font-semibold">{skill.name}</h4>
+                      <div className="flex gap-2 items-start flex-wrap mt-2">
+                        {skill.skills.map(i => (
+                          <p className="text-gray-400 bg-neutral p-1 px-2 rounded-badge ">{i}</p>
+                        ))}
+                      </div>
+                    </div>
+                    
+                  </div>
+                ))}
+
+              </div>
+            </div>
           </div>
         </div>
       </div>
