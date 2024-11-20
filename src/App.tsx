@@ -139,7 +139,7 @@ function App() {
   return (
 
     <>
-      <div className='min-h-screen w-screen font-sans'>
+      <div id="home" className='min-h-screen w-screen font-sans'>
         <NavBar />
         {/* Body */}
 
@@ -166,7 +166,7 @@ function App() {
           </div>
           {/* body */}
           <div className="flex-1">
-            <div id="home" className="">
+            <div  className="">
               <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
               <p className="max-w-lg text-lg mt-8 text-gray-400">Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.</p>
               {/* stats */}
