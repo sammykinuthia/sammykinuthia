@@ -16,10 +16,10 @@ function App() {
       url: "https://jamescarsondesign.com"
     },
     {
-      title: "Brew Masters ",
+      title: "Brewmaster Lmt ",
       description: "Bear Production Company website",
       image: "/brewmaster.png",
-      url: "https://brewmasters.com"
+      url: "https://brewmaster.co.tz"
     },
   ]
   const experience = [
