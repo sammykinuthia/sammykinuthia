@@ -13,13 +13,13 @@ function App() {
       title: "James Carson Design",
       description: "Movies Portfolio",
       image: "/james-carson.png",
-      url: "jamescarsondesign.com"
+      url: "https://jamescarsondesign.com"
     },
     {
       title: "Brew Masters ",
       description: "Bear Production Company website",
       image: "/brewmaster.png",
-      url: "brewmasters.com"
+      url: "https://brewmasters.com"
     },
   ]
   const experience = [
