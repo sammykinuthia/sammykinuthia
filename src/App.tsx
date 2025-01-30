@@ -142,8 +142,7 @@ function App() {
       <div id="home" className='min-h-screen w-screen font-sans'>
         <NavBar />
         {/* Body */}
-
-        <div className="flex flex-col md:flex-row max-w-6xl p-4 mx-auto gap-8 gap-x-20 items-start">
+        <div className="flex flex-col md:flex-row  max-w-6xl p-4 mx-auto gap-8 gap-x-20 items-start">
           {/* profile */}
           <div className="rounded-lg bg-secondary-content text-gray-400 p-12 relative md:sticky md:top-28 top-0 w-full md:max-w-72 flex flex-col items-center gap-4">
             <div className="avatar border-4 rounded-lg overflow-hidden">
@@ -155,10 +154,10 @@ function App() {
               <h3 className="uppercase font-[800] text-xl text-center">Kinuthia Samuel Mwaniki</h3>
               <p className="text-gray-500 font-semibold ">A skilled <span className="badge badge-primary"> full-stack developer</span> crafting scalable, user-focused solutions with expertise in <span className="badge badge-secondary">React</span>, <span className="badge badge-secondary">Next Js</span>, <span className="badge badge-secondary">Node js</span> and <span className="badge badge-secondary">Wordpress</span></p>
               <div className="flex gap-4 items-center text-black ">
-                <a href="#" className="btn btn-sm "><Mail className="size-4" /></a>
-                <a href="#" className="btn btn-sm"><Linkedin className="size-4" /></a>
-                <a href="#" className="btn btn-sm"><Github className="size-4" /></a>
-                <a href="#" className="btn btn-sm"><Phone className="size-4" /></a>
+                <a href="mailto:kinuthiasamuel05@gmail.com" className="btn btn-sm "><Mail className="size-4" /></a>
+                <a href="https://www.linkedin.com/in/samuel-kinuthia99" target="_blank" className="btn btn-sm"><Linkedin className="size-4" /></a>
+                <a href="https://www.github.com/sammykinuthia" target="_blank" className="btn btn-sm"><Github className="size-4" /></a>
+                <a href="tel:+254790360980" className="btn btn-sm"><Phone className="size-4" /></a>
               </div>
             </div>
 
