@@ -24,21 +24,21 @@ function App() {
   ]
   const experience = [
     {
-      company: "Pamatech Solution",
-      title: "Software Engineer",
-      description: "Worked on multiple projects including school management system, Chama management system",
-      date: "2024 - PRESENT",
-      url: "https://pamatech.co.ke/"
+      company: "The Jitu",
+      title: "Quality Assurance",
+      description: "Working in collaboration with developers to ensure shipment of Quality and Reliable softwares",
+      date: "Mar 2025 - PRESENT",
+      url: "https://thejitu.com/"
     }, {
       company: "Zetu Academy",
-      title: "Software Engineer",
+      title: "Software Engineer - Internship",
       description: "Worked on multiple projects using next.js and wordpress",
       date: "Dec 2023 - Mar 2024",
       url: "https://zetujobs.com/",
     },
     {
       company: "The Jitu",
-      title: "Quality Assurance",
+      title: "Quality Assurance - Internship",
       description: "Performed different tests including performance and end-to-end tests along side collaborating with developers",
       date: "Jun 2023 - Sep 2023",
       url: "https://thejitu.com/"
@@ -146,13 +146,13 @@ function App() {
           {/* profile */}
           <div className="rounded-lg bg-secondary-content text-gray-400 p-12 relative md:sticky md:top-28 top-0 w-full md:max-w-72 flex flex-col items-center gap-4">
             <div className="avatar border-4 rounded-lg overflow-hidden">
-              <div className="w-40  ">
+              <div className="w-40 b  ">
                 <img src="/profile.jpg" className="" />
               </div>
             </div>
             <div className="flex flex-col gap-4">
               <h3 className="uppercase font-[800] text-xl text-center">Kinuthia Samuel Mwaniki</h3>
-              <p className="text-gray-500 font-semibold ">A skilled <span className="badge badge-primary"> full-stack developer</span> crafting scalable, user-focused solutions with expertise in <span className="badge badge-secondary">React</span>, <span className="badge badge-secondary">Next Js</span>, <span className="badge badge-secondary">Node js</span> and <span className="badge badge-secondary">Wordpress</span></p>
+              <p className="text-gray-500 font-semibold ">A skilled <span className="badge badge-primary"> full-stack </span> <span className="badge badge-accent"> Q.A. Engineer </span> crafting scalable, user-focused solutions with expertise in <span className="badge badge-secondary">React</span>, <span className="badge badge-secondary">Next Js</span>, <span className="badge badge-secondary">Node js</span> and <span className="badge badge-secondary">vast testing tools</span></p>
               <div className="flex gap-4 items-center text-black ">
                 <a href="mailto:kinuthiasamuel05@gmail.com" className="btn btn-sm "><Mail className="size-4" /></a>
                 <a href="https://www.linkedin.com/in/samuel-kinuthia99" target="_blank" className="btn btn-sm"><Linkedin className="size-4" /></a>
@@ -162,12 +162,12 @@ function App() {
             </div>
 
 
-          </div>
+          </div>  
           {/* body */}
           <div className="flex-1">
             <div  className="">
-              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
-              <p className="max-w-lg text-lg mt-8 text-gray-400">Passionate about creating intuitive and engaging user experiences. Specialize in transforming ideas into beautifully crafted products.</p>
+              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Q.A. <span className="text-gray-600">Engineer</span></h2>
+              <p className="max-w-lg text-lg mt-8 text-gray-400">Passionate about ensuring seamless and high-quality user experiences. Specialize in testing, identifying, and resolving issues to ensure products meet the highest standards of functionality, usability, and performance.</p>
               {/* stats */}
               <div className="mt-8 ">
                 <div className="grid grid-cols-1 md:grid-cols-2 ">
