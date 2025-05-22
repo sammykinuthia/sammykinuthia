@@ -263,7 +263,7 @@ function App() {
                 <p className="text-gray-400 whitespace-nowrap">Email: <a href="mailto:kinuthiasamuel05@gmail.com" className="underline">kinuthiasamuel05@gmail.com</a></p>
                 <p className="text-gray-400 whitespace-nowrap">GitHub: <a href="https://github.com/sammykinuthia" target="_blank" className="underline">sammykinuthia</a></p>
                 <p className="text-gray-400 whitespace-nowrap">LinkedIn: <a href="https://www.linkedin.com/in/samuel-kinuthia99" target="_blank" className="underline">samuel-kinuthia99</a></p>
-                <p className="text-gray-400 whitespace-nowrap">Twitter: <a href="https://twitter.com/sammykinuthia" target="_blank" className="underline">@sammykinuthia</a></p>
+                <p className="text-gray-400 whitespace-nowrap">Twitter: <a href="https://x.com/Sammkinuthia?t=WBF5kAyfQoHz-QyaDCL97A&s=08" target="_blank" className="underline">@sammykinuthia</a></p>
               </div>
 
             </div>
