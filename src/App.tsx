@@ -7,7 +7,7 @@ function App() {
       title: "Design With Ace ",
       description: " Architectural Portfolio",
       image: "/design-with-ace.png",
-      url: "https://architect-portfolio-v2.vercel.app/"
+      url: "https://designwithace.co.ke/"
     },
     {
       title: "James Carson Design",
@@ -24,11 +24,11 @@ function App() {
   ]
   const experience = [
     {
-      company: "The Jitu",
-      title: "Quality Assurance",
+      company: "Griffin Global Tech",
+      title: "Software Developer - Internship",
       description: "Working in collaboration with developers to ensure shipment of Quality and Reliable softwares",
-      date: "Mar 2025 - PRESENT",
-      url: "https://thejitu.com/"
+      date: "Jan 2025 - Mar 2025",
+      url: "https://www.griffinglobaltech.com/"
     }, {
       company: "Zetu Academy",
       title: "Software Engineer - Internship",
@@ -111,12 +111,14 @@ function App() {
         "Vitest",
         "Cypress",
         "Debugging",
+        "Playwrite"
       ]
     },
     {
       name: "Tools & Platforms",
       skills: [
         "Expo",
+        "tauri",
         "Cloudflare",
         "Docker",
         "Git",
@@ -131,7 +133,8 @@ function App() {
         "JavaScript",
         "TypeScript",
         "Python",
-        "Java"
+        "Java",
+        "rust"
       ]
     }
   ];
@@ -162,11 +165,11 @@ function App() {
             </div>
 
 
-          </div>  
+          </div>
           {/* body */}
           <div className="flex-1">
-            <div  className="">
-              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Q.A. <span className="text-gray-600">Engineer</span></h2>
+            <div className="">
+              <h2 className="text-5xl md:text-6xl lg:lg:text-7xl xl:lg:text-8xl uppercase font-bold" >Software <span className="text-gray-600">Engineer</span></h2>
               <p className="max-w-lg text-lg mt-8 text-gray-400">Passionate about ensuring seamless and high-quality user experiences. Specialize in testing, identifying, and resolving issues to ensure products meet the highest standards of functionality, usability, and performance.</p>
               {/* stats */}
               <div className="mt-8 ">
@@ -246,11 +249,23 @@ function App() {
                         ))}
                       </div>
                     </div>
-                    
+
                   </div>
                 ))}
 
               </div>
+            </div>
+            {/* footer */}
+            <div className="my-12 border-t ">
+              <h3 className="text-3xl md:text-4xl uppercase font-bold my-8">Socials <span className="text-gray-600">& Contacts</span></h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 items-center gap-4 justify-center px-8">
+                <p className="text-gray-400 whitespace-nowrap">Phone: <a href="tel:+254790360980" className="underline">+254 790 360 980</a></p>
+                <p className="text-gray-400 whitespace-nowrap">Email: <a href="mailto:kinuthiasamuel05@gmail.com" className="underline">kinuthiasamuel05@gmail.com</a></p>
+                <p className="text-gray-400 whitespace-nowrap">GitHub: <a href="https://github.com/sammykinuthia" target="_blank" className="underline">sammykinuthia</a></p>
+                <p className="text-gray-400 whitespace-nowrap">LinkedIn: <a href="https://www.linkedin.com/in/samuel-kinuthia99" target="_blank" className="underline">samuel-kinuthia99</a></p>
+                <p className="text-gray-400 whitespace-nowrap">Twitter: <a href="https://twitter.com/sammykinuthia" target="_blank" className="underline">@sammykinuthia</a></p>
+              </div>
+
             </div>
           </div>
         </div>
