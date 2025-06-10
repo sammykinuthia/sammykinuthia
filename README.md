@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammykinuthia" alt="sammykinuthia" /></a> </p>
 
-- 🔭 I’m currently working on [Architectural Portfolio Project](https://architect-portfolio-v2.vercel.app/)
+- 🔭 I’m currently working on [Architectural Portfolio Project](https://designwithace.co.ke/)
 
-- 🌱 I’m currently learning **react Native**
+- 🌱 I’m currently learning **AWS Solution architect**
 
 - 👨‍💻 All of my projects are available at [http://sammykinuthia.vercel.app/](http://sammykinuthia.vercel.app/)
 
