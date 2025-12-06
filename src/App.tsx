@@ -16,13 +16,46 @@ function App() {
       url: "https://jamescarsondesign.com"
     },
     {
-      title: "Brewmaster Lmt ",
-      description: "Bear Production Company website",
-      image: "/brewmaster.png",
-      url: "https://brewmaster.co.tz"
+      title: "Fresh Bite Catering LLC ",
+      description: "Fast Food Delivery Service",
+      image: "/freshbitecatering.png",
+      url: "https://freshbitecatering.ae"
     },
+    {
+      title:"Trading Journal App",
+      description:"A web app to help traders keep track of their trades and performance",
+      image:"/trading-journal.png",
+      url:"https://royoltech-trading-journal.vercel.app/"
+    },
+    {
+      title:"Black Scholes Option Price Calculator",
+      description:"A web app that uses the Black Scholes model to calculate the price of European call and put options. Helps traders in hediging possitions.",
+      image:"/black-scholes.png",
+      url:"https://blackschole.royoltech.com"
+    },
+    {
+      title:"Royoltech Email Service",
+      description:"A web app that allows users to receive emails from their websites without setting up complex backend servers.",
+      image:"/email-service.png",
+      url:"https://mail.royoltech.com/"
+    },
+    {
+      title:"Betika Aviator Scraper and TradingView Charts",
+      description:"A web app that scrapes live aviator game data from Betika and displays it on TradingView charts for better analysis.",
+      image:"/aviator-scalper.png",
+      url:"https://github.com/sammykinuthia/betika-aviator-scrap-tradingview"
+
+    }
   ]
+
   const experience = [
+    {
+      company: "Ministry of Education - Kenya",
+      title: "ICT - Internship",
+      description: "Provided IT support during KNEC examinations, compiled and cleaned school data, assisted in the issuance of KNEC exams, and performed duties as assigned by the supervisor.",
+      date: "Oct 2025 - Current",
+      url: "https://www.education.go.ke/"
+    },
     {
       company: "Griffin Global Tech",
       title: "Software Developer - Internship",
@@ -82,6 +115,7 @@ function App() {
         "Firebase",
         "Mysql",
         "Mongo db",
+        "SQLite"
       ]
     },
     {
@@ -134,7 +168,8 @@ function App() {
         "TypeScript",
         "Python",
         "Java",
-        "rust"
+        "rust",
+        "C Sharp"
       ]
     }
   ];
