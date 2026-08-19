@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammykinuthia" alt="sammykinuthia" /></a> </p>
 
-- 🔭 I’m currently working on [Architectural Portfolio Project](https://designwithace.co.ke/)
+- 🔭 I’m currently working on STEM made familiar web platform
 
 - 🌱 I’m currently learning **AWS Solution architect**
 
