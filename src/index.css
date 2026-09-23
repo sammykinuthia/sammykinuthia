@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background-color: hsl(var(--b1));
+  background-image:
+    radial-gradient(ellipse 80% 50% at 10% -10%, hsl(var(--p) / 0.16), transparent 55%),
+    radial-gradient(ellipse 60% 40% at 100% 0%, hsl(var(--s) / 0.12), transparent 45%);
+}

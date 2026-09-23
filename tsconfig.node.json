@@ -18,7 +18,12 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "noUncheckedSideEffectImports": true,
+
+    "baseUrl": ".", // This is often needed for paths to work correctly
+    "paths": {
+      "@server/*": ["../server/src/*"]
+    }
   },
   "include": ["vite.config.ts"]
 }
