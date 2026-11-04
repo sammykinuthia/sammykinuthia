@@ -1,33 +1,97 @@
-<h1 align="center">Hi 👋, I'm Kinuthia Samuel Mwaniki</h1>
-<h3 align="center">A passionate full stack developer from Kenya</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammykinuthia&label=Profile%20views&color=0e75b6&style=flat" alt="sammykinuthia" /> </p>
+# Kinuthia Samuel Mwaniki
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammykinuthia" alt="sammykinuthia" /></a> </p>
+### Software Engineer · Full-Stack Development · Cloud & Automation
 
-- 🔭 I’m currently working on [Architectural Portfolio Project](https://designwithace.co.ke/)
+**Building reliable, scalable software — from intuitive interfaces to production-ready backend systems.**
 
-- 🌱 I’m currently learning **AWS Solution architect**
+Based in Kenya 🇰🇪 · Open to software engineering opportunities
 
-- 👨‍💻 All of my projects are available at [http://sammykinuthia.vercel.app/](http://sammykinuthia.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://sammykinuthia.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-kinuthia99/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinuthiasamuel05@gmail.com)
 
-- 💬 Ask me about **react, Nextjs, python, javascript**
+<!-- Keep this exact username to preserve the existing profile-view counter. -->
+![Profile views](https://komarev.com/ghpvc/?username=sammykinuthia&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **kinuthiasamuel05@gmail.com**
+</div>
 
-- ⚡ Fun fact **Multi-Stack Warrior 🏆 – I’ve mastered Next.js, Remix, React Native, Prisma, and FastAPI, making you a tech-stack chameleon who adapts to any project!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sammykinuthia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammykinuthia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuel-kinuthia99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-kinuthia99" height="30" width="40" /></a>
-</p>
+## About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a software engineer with a **BSc in Computer Science** from Karatina University. I enjoy turning complex requirements into practical products, designing clean APIs, building accessible user experiences, and making systems dependable through testing and thoughtful architecture.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammykinuthia&show_icons=true&locale=en&layout=compact" alt="sammykinuthia" /></p>
+My experience spans **full-stack web development, quality engineering, education technology, and ICT systems support**. I work across the stack and care about maintainable code, security, performance, and usability.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammykinuthia&show_icons=true&locale=en" alt="sammykinuthia" /></p>
+- **What I build:** SaaS platforms, education tools, dashboards, APIs, and workflow automation.
+- **How I work:** Type-safe development, automated testing, pragmatic architecture, and iterative delivery.
+- **Currently exploring:** Distributed systems, cloud infrastructure, and applied AI integrations.
+- **Open to:** Software engineering roles, collaborative projects, and meaningful technical challenges.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammykinuthia&" alt="sammykinuthia" /></p>
+## Tech stack
+
+<div align="center">
+
+**Frontend & UI**
+
+![Frontend](https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,angular,tailwind,html,css&perline=9)
+
+**Backend & APIs**
+
+![Backend](https://skillicons.dev/icons?i=go,python,fastapi,nodejs,express,dotnet,django&perline=7)
+
+**Data & Infrastructure**
+
+![Data and infrastructure](https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,docker,nginx,linux,git,github&perline=9)
+
+**Testing & Tooling**
+
+![Testing](https://skillicons.dev/icons?i=jest,vitest,cypress,postman,bash,githubactions&perline=6)
+
+</div>
+
+Additional experience: **SvelteKit · Gin · Prisma · MinIO · Docker Swarm · Puppeteer · k6 · WordPress · REST APIs**
+
+## Selected engineering focus
+
+| Area | What I work on |
+| :--- | :--- |
+| **Full-stack applications** | Responsive interfaces, authentication, dashboards, and maintainable application architecture. |
+| **Backend engineering** | API design, background jobs, data modeling, integrations, and resilient services. |
+| **Education technology** | Curriculum-aligned learning experiences, assessment workflows, and content management. |
+| **Quality engineering** | End-to-end, integration, and performance testing with automated verification. |
+| **Infrastructure** | Containerized deployment, reverse proxies, caching, and operational reliability. |
+
+> Explore my public repositories below for code samples, experiments, and projects. Some professional and client work is not publicly available.
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sammykinuthia&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics for sammykinuthia" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammykinuthia&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used public repository languages" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=sammykinuthia&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+<sub>GitHub cards reflect public activity and repository language statistics; they are not a complete measure of professional experience.</sub>
+
+## Let's connect
+
+I'm interested in teams that value thoughtful engineering, clear communication, and products that solve real problems.
+
+- **Portfolio:** [sammykinuthia.vercel.app](https://sammykinuthia.vercel.app/)
+- **LinkedIn:** [samuel-kinuthia99](https://www.linkedin.com/in/samuel-kinuthia99/)
+- **GitHub:** [@sammykinuthia](https://github.com/sammykinuthia)
+- **Email:** [kinuthiasamuel05@gmail.com](mailto:kinuthiasamuel05@gmail.com)
+
+<div align="center">
+
+---
+
+<sub>Designed with intention. Built with curiosity. Improved through iteration.</sub>
+
+</div>
